@@ -1,0 +1,2 @@
+a test program for doing some form of
+networking between my personal devices (phone laptop 2nd laptop and desktop)
